@@ -2,7 +2,6 @@
 * I'm a junior Computer Science Major pursuing minors in Mathematics and Cybersecurity at Texas A&M University.
 * In my free time I enjoy playing basketball and working out (i'm currently training for the Austin marathon!).
 * Currently I am taking courses on web development tools (HTML,CSS,JavaScript), AWS server basics, and Operating Systems.
-* I have some experience in functional languages such as Haskell and Scheme as well as some front end developement. I am proficient in Python, Java, and C++.
 * You can reach me via email at dylanharden3@tamu.edu!
 
 
