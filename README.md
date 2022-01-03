@@ -1,7 +1,7 @@
 ### Hi👋, I'm Dylan Harden!
 * I'm a junior Computer Science Major pursuing minors in Mathematics and Cybersecurity at Texas A&M University.
 * In my free time I enjoy playing basketball and working out (i'm currently training for the Austin marathon!).
-* Currently I am taking courses on web development tools (HTML,CSS,JavaScript), AWS server basics, and Operating Systems.
+* Currently I am taking courses on software engineering, algorithm design and analysis, and discrete mathematics.
 * You can reach me via email at dylanharden3@tamu.edu!
 
 
