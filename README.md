@@ -1,7 +1,4 @@
 ### Hi👋, I'm Dylan Harden!
-* I'm a Senior Computer Science Major pursuing minors in Mathematics and Cybersecurity at Texas A&M University.
-* In my free time I enjoy training for and competing in triathlon.
-* Currently I am taking courses on Computer & Network Security, Artificial Inteligence, and completing my Senior Capstone Project.
 
 <!--
 **Dylan-Harden3/Dylan-Harden3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
