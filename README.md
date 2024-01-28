@@ -6,6 +6,7 @@ Some facts about me:
 * Right now im working on grinding DSA problems 🧠, a GAN for dog image generation 🐶, and a trading bot 📈.
 * My main hobby at the moment is training for and competing in Triathlons with the TAMU Tri Team 🦓 🏊‍♂️🚴🏃‍♂.
 * You can reach me via email at dylanharden33@gmail.com!
+* Or connect with me on Linkedin https://www.linkedin.com/in/dylan-harden/
 <!--
 **Dylan-Harden3/Dylan-Harden3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
