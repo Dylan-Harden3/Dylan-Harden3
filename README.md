@@ -3,7 +3,7 @@ This GitHub account contains some of the projects I have worked on over the year
 Some facts about me:
 * I'm a first year Master of Computer Science Student at Texas A&M University (May 2025 Graduation).
 * Currently I'm taking courses on Machine Learning, Computer Trading Strategies, and Distributed Systems.
-* Right now im working on grinding DSA problems 🧠, a GAN for dog image generation 🐶, and a trading bot 📈.
+* Right now im working on grinding DSA problems 🧠, a GAN for cat/dog image generation 🐶, and a trading bot 📈.
 * My main hobby at the moment is training for and competing in Triathlons with the TAMU Tri Team 🦓 🏊‍♂️🚴🏃‍♂.
 * You can reach me via email at dylanharden33@gmail.com!
 * Or connect with me on Linkedin https://www.linkedin.com/in/dylan-harden/
