@@ -12,6 +12,6 @@
 
 ## Recent Projects:
 
-🕵️‍♂️ [PyDetectGPT](https://github.com/Dylan-Harden3/PyDetectGPT) [![Downloads](https://static.pepy.tech/badge/pydetectgpt)](https://pypi.org/project/pydetectgpt/) - An easy to use Python package for detecting AI-generated text
+🕵️‍♂️ [PyDetectGPT](https://github.com/Dylan-Harden3/PyDetectGPT) ![Downloads](https://img.shields.io/pypi/dm/pydetectgpt?color=blue) - An easy to use Python package for detecting AI-generated text
 
 🦙 [Llama3.2.c](https://github.com/Dylan-Harden3/Llama3.2.c) - Inference Llama3.2 models in 1 file of pure C
