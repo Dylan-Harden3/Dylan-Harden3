@@ -6,7 +6,7 @@
 
 🎓 Masters Computer Science student at [Texas A&M](www.tamu.edu), Graduating May 2025 (BS Computer Science 2023)
 
-👩‍💻 Previously interned at [Samsung](www.samsung.com), [Resideo](www.resideo.com), and [Charles Schwab](www.schwab.com)
+👨‍💻 Previously interned at [Samsung](www.samsung.com), [Resideo](www.resideo.com), and [Charles Schwab](www.schwab.com)
 
 🏊‍♂️🚴‍♂️🏃‍♂️ In my free time I train for and compete in triathlons with the  [TAMU Tri Team](https://www.tamutriathlon.com/) 🦓
 
