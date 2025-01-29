@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Dylan-Harden3&color=blue&style=flat)
 
 ## A bit about me:
+
 💻 Hardworking engineer passionate about all things Software Engineering and ML/AI
 
 🎓 Masters Computer Science student at [Texas A&M](www.tamu.edu), Graduating May 2025 (BS Computer Science 2023)
@@ -12,6 +13,8 @@
 
 ## Recent Projects:
 
-🕵️‍♂️ [PyDetectGPT](https://github.com/Dylan-Harden3/PyDetectGPT) ![Downloads](https://img.shields.io/pypi/dm/pydetectgpt?color=blue) - An easy to use Python package for detecting AI-generated text
+🕵️‍♂️ [PyDetectGPT](https://github.com/Dylan-Harden3/PyDetectGPT) - An easy to use Python package for detecting AI-generated text
 
 🦙 [Llama3.2.c](https://github.com/Dylan-Harden3/Llama3.2.c) - Inference Llama3.2 models in 1 file of pure C
+
+Read more at [dylan-harden3.github.io](https://dylan-harden3.github.io/)
